@@ -1,0 +1,6 @@
+{
+    "editor.renderWhitespace": "all",
+    "editor.insertSpaces": false,
+    "editor.insertTabs": true,
+    "editor.detectIndentation": true
+}

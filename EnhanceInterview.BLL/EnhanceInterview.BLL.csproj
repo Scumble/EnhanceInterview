@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\EnhanceInterview.DAL\EnhanceInterview.DAL.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AutoMapper" Version="8.0.0" />
+      <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="2.1.1" />
+      <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.2.0" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnhanceInterview", "EnhanceInterview\EnhanceInterview.csproj", "{335654CE-59E7-4B76-B365-948840847E43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnhanceInterview.DAL", "EnhanceInterview.DAL\EnhanceInterview.DAL.csproj", "{5D215D2D-83F7-44C9-B687-514D526EF480}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnhanceInterview.BLL", "EnhanceInterview.BLL\EnhanceInterview.BLL.csproj", "{E830583F-DA6A-4FD8-8DF8-EADE05B6E98E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{335654CE-59E7-4B76-B365-948840847E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{335654CE-59E7-4B76-B365-948840847E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{335654CE-59E7-4B76-B365-948840847E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{335654CE-59E7-4B76-B365-948840847E43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D215D2D-83F7-44C9-B687-514D526EF480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D215D2D-83F7-44C9-B687-514D526EF480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D215D2D-83F7-44C9-B687-514D526EF480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D215D2D-83F7-44C9-B687-514D526EF480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E830583F-DA6A-4FD8-8DF8-EADE05B6E98E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E830583F-DA6A-4FD8-8DF8-EADE05B6E98E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E830583F-DA6A-4FD8-8DF8-EADE05B6E98E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E830583F-DA6A-4FD8-8DF8-EADE05B6E98E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
